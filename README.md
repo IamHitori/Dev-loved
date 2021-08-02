@@ -32,7 +32,7 @@ Lo unico que necesitas para poder realizar esto son varias cosas.
 5. Muchas ganas de aprender a programar.
 
 Si tienes una duda habra una seccion donde podras comentar y te ayudare, resolvere tus dudas y cual erros que tengas.
-[Wiki](https://github.com/aseprite/aseprite/issues/new).
+[Dudas](https://github.com/IamHitori/Dev-loved/issues).
 
 ## Redes sociales
 
