@@ -67,7 +67,7 @@ Si tienes una duda habra una seccion donde podras comentar y te ayudare, resolve
 - [X] Ejemplos en formato .py
 - [ ] Pruebas
 
-* [Caso 1](https://github.com/IamHitori/Dev-loved/tree/main/src) 
+* [Caso 1](https://github.com/IamHitori/Dev-loved/tree/main/src) **Comentarios y Numeros**
 * [Caso 2]()
 * [Caso 3]()
 * [Caso 4]()
