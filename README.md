@@ -1,6 +1,11 @@
 # Dev-loved
 Este repositorio es para poder  ayudar a las personas que quieran empezar en el desarrollo, y puedan hacerlo sin ningún costo.
 
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamHitori&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+
 ### Lenguaje del repositorio:
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
