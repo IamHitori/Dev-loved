@@ -59,6 +59,19 @@ Si tienes una duda habra una seccion donde podras comentar y te ayudare, resolve
 
 **Espero poder encontrar colaboradores a que ayuden, no soy el mas experte y tendre errores, asi que espero poder encontrar contribuidores y ayudar a los demas, todos podemos aprender ayudandos entre nosotros**
 
-## Contribute
+## Casos (Clases)
+**Estas son las clases que contendra toda la informacion para los cursos**
+* Material
+- [X] Tema
+- [X] Informacion del tema
+- [X] Ejemplos en formato .py
+- [ ] Pruebas
 
-
+* [Caso 1](https://github.com/IamHitori/Dev-loved/tree/main/src) **Comentarios y Numeros**
+* [Caso 2]()
+* [Caso 3]()
+* [Caso 4]()
+* [Caso 5]()
+* [Caso 6]()
+* [Caso 7]()
+* [Caso 8]()
